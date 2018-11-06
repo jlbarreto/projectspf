@@ -1,0 +1,1 @@
+Este es el repositorio donde está el api para las aplicaciones de pidafacil. Los ultimos cambios de manera local se estaban trabajando en la branch Josue-Api y en producción está en la master.

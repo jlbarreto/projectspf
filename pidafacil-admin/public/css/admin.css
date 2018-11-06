@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-29-2015, 12:18:56 PM
+    Author     : m0rf3o
+*/
+#contFormWeb{
+    display: none;
+}
+
+.logo > img{
+    max-width: 95%;
+}
+
+#formEnv, .normalContet{
+    left: 50%;
+    margin-left: -450px;
+    max-width: 900px;
+    position: relative;
+}
+
+.title{
+    color: white;
+    margin-top: 0px;
+    padding: 20px 0px;
+}
+
+.hora_rest select option{
+    color:#666;
+}
+
+#letra{
+    color: white;
+    text-align: center;
+}
+
+#letra2{
+    color: black;
+    text-align: center;
+}

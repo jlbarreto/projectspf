@@ -1,0 +1,7 @@
+.sound-config {
+  margin-top: 5px;
+}
+
+.sound-config input:hover, label:hover {
+  cursor: pointer;
+}

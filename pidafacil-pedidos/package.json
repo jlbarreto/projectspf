@@ -1,0 +1,10 @@
+{
+  "name": "pidafacil-pedidos",
+  "version": "1.0.0",
+  "description": "Sistema de monitoreo de ordenes creadas en PidaFacil",
+  "dependencies": {
+    "express": "^4.10.2",
+    "mysql": "^2.5.4",
+    "socket.io": "^1.3.6"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "pidafacil-chat",
+  "version": "1.0.1",
+  "dependencies": {
+    "jquery": "latest",
+    "typeahead.js": "latest",
+    "requirejs-plugins": "~1.0.3"
+  },
+  "directory": "components",
+  "authors": [
+    "Ramon Zuniga <ramonzuniga9@gmail.com>"
+  ],
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "free"
+}

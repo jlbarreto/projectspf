@@ -1,0 +1,1 @@
+Este proyecto es el de carrier, el cual se ocupa para generar reportes pedidos por José Luis. Los últimos cambios de manera local se trabajaron en la branch Josue_local y en producción está en la branch master.

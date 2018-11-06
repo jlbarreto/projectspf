@@ -1,0 +1,132 @@
+.container{
+	padding: 80px 0; 
+	background-color: 
+	#1a1a1a; width: 100%;
+}
+.checkout{
+	width: 80%;
+	margin: 0 auto;
+	color: #ffffff;
+	text-align: center;
+}
+
+h3{
+	font-weight: normal;
+	margin-bottom: 15px;
+}
+
+.checkout h1{
+	font-size: 40px;
+	font-weight: normal;
+}
+
+.checkout ul, li{
+	list-style: none;
+}
+
+.dir{
+	color: #666666;
+	background-color: transparent;
+	border: 2px solid #666666;
+}
+
+.radio{
+	width: 100%;
+	background-color: #ffffff;
+	padding: 5px 0;
+	color: #333333;
+	font-size: 18px;
+	text-align: center;
+}
+.modal-body .form-group{
+	text-align: center;
+}
+.bullet{
+	font-size: 10px;
+	color: #cccccc;
+}
+
+.restaurant_address{
+	width: 80%;
+	max-width: 450px;
+}
+
+input[type=radio]{
+	display: none;
+}
+
+button{
+	background-color: transparent;
+	border: 2px solid #ffffff;
+	padding: 10px 5px;
+	color: #ffffff;
+	border-radius: 5px;
+	margin-top: 15px;
+	cursor: pointer;
+}
+
+select{
+	text-align: center;
+	margin-top: 5px;
+	cursor:pointer;
+	height: 45px;
+	color: #ffffff;
+	-webkit-border-radius: 5;
+	-moz-border-radius: 5;
+	border-radius: 5px;
+	font-size: 14px;
+	padding: 5px 10px;
+	border: solid #666666 2px;
+	background-color: transparent;
+}
+
+option{
+	color: #666666;
+}
+
+input[type=submit]{
+	background-color: transparent;
+	border: 2px solid #ffffff;
+	padding: 10px 5px;
+	color: #ffffff;
+	width: 150px;
+	border-radius: 5px;
+}
+
+.service-type, .payment-method{
+	padding: 10px;
+	width: 90%;
+	margin: 15px auto;
+	text-align: left;
+}
+
+.form-group{
+	width: 100%;
+	padding: 15px;
+}
+
+.new_add_modal input{
+	margin-bottom: 5px;
+}
+
+input{
+	width: 80%;
+}
+
+@media screen and (max-width: 450px){
+	.container{
+		padding: 50px 0;
+	}
+
+	.hidden{
+		display: none;
+	}
+
+	select{
+		width: 80%;
+	}
+
+	.new_add_modal input{
+		width: 100%;
+	}
+}

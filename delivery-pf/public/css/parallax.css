@@ -1,0 +1,60 @@
+section.module.parallax-1{
+	background-image: url("../images/background.jpg");
+	margin: 0;
+}
+
+section.moduli.parallax-2{
+	background-image: url("../images/background.jpg");
+	margin: 0;
+}
+
+section.module.parallax-2{
+	background-image: url("../images/background.jpg");
+	margin: 0;
+}
+
+section.module.parallax {
+	min-height: 750px;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+ main.module.parallax {
+	min-height: 750px;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+section.moduli.parallaxi {
+	height: auto;
+	background-position: 50% 50%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+section.modul.paralla{
+	height: auto;
+	background-position: 50% 50%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+@media screen and (max-width: 775px){
+	section.module.parallax{
+		height: auto;
+	}
+}

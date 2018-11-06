@@ -1,0 +1,7 @@
+{
+  "gcm_sender_id": "224078556945"
+}
+
+"permissions": [
+  "gcm", "storage"
+]

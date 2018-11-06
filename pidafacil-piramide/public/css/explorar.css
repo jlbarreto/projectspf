@@ -1,0 +1,21 @@
+.container{
+	padding-top: 90px;
+	width: 80%;
+	text-align: center;
+}
+
+.food, .mood{
+	width: 45%;
+	margin: 15px;
+	float: left;
+}
+
+.type{
+	border: 2px solid #333333;
+	border-radius: 50%;
+}
+
+article{
+	width: 50px;
+	float: left;
+}
